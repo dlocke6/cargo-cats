@@ -1,4 +1,4 @@
-# Cargo Cats 📦
+# Cargo Cats 📦 Ken is cool
 
 Cargo Cats is a multi-language microservice application designed as a purposefully vulnerable demo application for security testing and education. It simulates a shipping/logistics platform with various intentional security vulnerabilities. All services are automatically instrumented using the Contrast Security Flex Agent via agent-operator for runtime application security monitoring.
 
